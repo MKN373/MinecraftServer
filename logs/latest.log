@@ -1,36 +1,36 @@
-[21:38:55] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:38:55] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:38:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:38:55] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:38:55] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:38:55] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:38:55] [main/INFO]: Reloading ResourceManager: Default
-[21:38:56] [Worker-Main-9/INFO]: Loaded 7 recipes
-[21:38:56] [Worker-Main-9/INFO]: Loaded 927 advancements
-[21:38:59] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[21:38:59] [Server thread/INFO]: Loading properties
-[21:38:59] [Server thread/INFO]: Default game type: SURVIVAL
-[21:38:59] [Server thread/INFO]: Generating keypair
-[21:38:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:38:59] [Server thread/INFO]: Using default channel type
-[21:39:04] [Server thread/INFO]: Preparing level "world"
-[21:39:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:39:05] [Server thread/INFO]: Preparing spawn area: 0%
-[21:39:05] [Server thread/INFO]: Preparing spawn area: 0%
-[21:39:05] [Server thread/INFO]: Preparing spawn area: 0%
-[21:39:06] [Server thread/INFO]: Preparing spawn area: 0%
-[21:39:06] [Server thread/INFO]: Preparing spawn area: 83%
-[21:39:06] [Server thread/INFO]: Time elapsed: 2778 ms
-[21:39:06] [Server thread/INFO]: Done (2.902s)! For help, type "help"
-[22:15:33] [Server thread/INFO]: Stopping server
-[22:15:33] [Server thread/INFO]: Saving players
-[22:15:33] [Server thread/INFO]: Saving worlds
-[22:15:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:15:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:15:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:15:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:15:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:15:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:15:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:15:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:15:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:15:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:15:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:15:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:15:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:15:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:15:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:15:49] [main/INFO]: Reloading ResourceManager: Default
+[22:15:49] [Worker-Main-12/INFO]: Loaded 7 recipes
+[22:15:50] [Worker-Main-12/INFO]: Loaded 927 advancements
+[22:15:52] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[22:15:52] [Server thread/INFO]: Loading properties
+[22:15:52] [Server thread/INFO]: Default game type: SURVIVAL
+[22:15:52] [Server thread/INFO]: Generating keypair
+[22:15:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:15:52] [Server thread/INFO]: Using default channel type
+[22:15:54] [Server thread/INFO]: Preparing level "world"
+[22:15:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:15:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:15:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:15:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:15:56] [Server thread/INFO]: Preparing spawn area: 0%
+[22:15:57] [Server thread/INFO]: Preparing spawn area: 83%
+[22:15:57] [Server thread/INFO]: Time elapsed: 3059 ms
+[22:15:57] [Server thread/INFO]: Done (3.159s)! For help, type "help"
+[22:16:05] [Server thread/INFO]: Stopping server
+[22:16:05] [Server thread/INFO]: Saving players
+[22:16:05] [Server thread/INFO]: Saving worlds
+[22:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:16:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:16:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
