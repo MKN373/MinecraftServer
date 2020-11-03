@@ -1,36 +1,42 @@
-[22:15:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:15:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:15:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:15:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:15:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:15:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:15:49] [main/INFO]: Reloading ResourceManager: Default
-[22:15:49] [Worker-Main-12/INFO]: Loaded 7 recipes
-[22:15:50] [Worker-Main-12/INFO]: Loaded 927 advancements
-[22:15:52] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[22:15:52] [Server thread/INFO]: Loading properties
-[22:15:52] [Server thread/INFO]: Default game type: SURVIVAL
-[22:15:52] [Server thread/INFO]: Generating keypair
-[22:15:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:15:52] [Server thread/INFO]: Using default channel type
-[22:15:54] [Server thread/INFO]: Preparing level "world"
-[22:15:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:15:56] [Server thread/INFO]: Preparing spawn area: 0%
-[22:15:56] [Server thread/INFO]: Preparing spawn area: 0%
-[22:15:56] [Server thread/INFO]: Preparing spawn area: 0%
-[22:15:56] [Server thread/INFO]: Preparing spawn area: 0%
-[22:15:57] [Server thread/INFO]: Preparing spawn area: 83%
-[22:15:57] [Server thread/INFO]: Time elapsed: 3059 ms
-[22:15:57] [Server thread/INFO]: Done (3.159s)! For help, type "help"
-[22:16:05] [Server thread/INFO]: Stopping server
-[22:16:05] [Server thread/INFO]: Saving players
-[22:16:05] [Server thread/INFO]: Saving worlds
-[22:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:16:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:16:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:16:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:34:32] [User Authenticator #6/INFO]: UUID of player Lilieze is e63c2dd9-43e8-405c-81c1-8dd76263b6c9
+[00:34:32] [Server thread/INFO]: Lilieze[/111.102.185.97:57329] logged in with entity id 14497 at (-146.19311696827353, 57.0, -45.25541158311817)
+[00:34:32] [Server thread/INFO]: Lilieze joined the game
+[00:55:26] [Server thread/INFO]: Lilieze lost connection: Disconnected
+[00:55:26] [Server thread/INFO]: Lilieze left the game
+[00:55:48] [Server thread/INFO]: <makino373> ガツガツ!!曲:星野源営みの街が暮れたら釘 を 食 うんまそ?っ！ﾊﾞﾘﾊﾞﾘﾎﾞﾘﾘﾘｯﾊﾞｷﾊﾞｷｯｯ！！！まっっっっっっずWow wow wow 星野!!Wow wow wow ウンコ出せ!!星野!!ウンコ出せ星野!!ウンコ!!動作がおかしい場合は、タカラトミーにご連絡ください。竈門炭治郎
+[01:19:26] [Server thread/WARN]: Fetching packet for removed entity bgc['Arrow'/24967, l='ServerLevel[world]', x=-10.64, y=64.55, z=-9.84]
+[01:23:46] [User Authenticator #7/INFO]: UUID of player Lilieze is e63c2dd9-43e8-405c-81c1-8dd76263b6c9
+[01:23:46] [Server thread/INFO]: Lilieze[/111.102.185.97:58543] logged in with entity id 26770 at (-134.9404579746714, 63.0, -38.30000001192093)
+[01:23:46] [Server thread/INFO]: Lilieze joined the game
+[01:26:12] [Server thread/INFO]: <Lilieze> ビビったｗｗｗｗｗ
+[01:26:17] [Server thread/INFO]: <makino373> kusa
+[01:27:29] [Server thread/INFO]: <Lilieze> 第二倉庫前の足場は？
+[01:27:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/28263, l='ServerLevel[world]', x=-165.00, y=63.00, z=-92.52]
+[01:27:37] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/28263, l='ServerLevel[world]', x=-165.00, y=63.00, z=-92.52]
+[01:27:43] [Server thread/INFO]: <makino373> 入ってみればわかるよ
+[01:28:59] [Server thread/INFO]: <Lilieze> 4?w
+[01:29:18] [Server thread/INFO]: <makino373> un
+[01:29:23] [Server thread/INFO]: <Lilieze> kusa
+[01:29:37] [Server thread/INFO]: <makino373> 勝手に地下つなげた
+[01:30:05] [Server thread/INFO]: <Lilieze> スポンジは？ｗ
+[01:30:30] [Server thread/INFO]: <makino373> 海底神殿一人で攻略したらしい
+[01:30:45] [Server thread/INFO]: <Lilieze> やりますねえ！
+[01:38:05] [Server thread/INFO]: <makino373> neteru
+[01:47:56] [Server thread/INFO]: Lilieze lost connection: Disconnected
+[01:47:56] [Server thread/INFO]: Lilieze left the game
+[01:48:26] [Server thread/INFO]: elishaotogei lost connection: Disconnected
+[01:48:26] [Server thread/INFO]: elishaotogei left the game
+[01:48:30] [Server thread/INFO]: makino373 lost connection: Disconnected
+[01:48:30] [Server thread/INFO]: makino373 left the game
+[02:04:22] [Server thread/INFO]: Stopping server
+[02:04:22] [Server thread/INFO]: Saving players
+[02:04:22] [Server thread/INFO]: Saving worlds
+[02:04:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:04:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:04:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:04:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:04:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:04:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:04:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:04:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:04:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
