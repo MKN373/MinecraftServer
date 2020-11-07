@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-11-07 02:49:20 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-09-28 23:47:40 +0900"
@@ -452,6 +458,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2020-09-28 23:47:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2020-11-05 00:35:44 +0900"
     },
     "done": true
   },
@@ -727,6 +739,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_the_recipe": "2020-11-07 01:27:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2020-09-28 23:33:14 +0900"
@@ -910,6 +928,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2020-10-11 23:13:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-11-05 01:34:12 +0900"
     },
     "done": true
   },
@@ -1572,6 +1596,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-09-28 23:34:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2020-11-07 01:27:28 +0900"
     },
     "done": true
   },
@@ -2964,6 +2994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-11-05 01:34:12 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2020-10-17 02:34:43 +0900"
@@ -3099,6 +3135,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2020-10-17 02:06:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-11-05 23:01:38 +0900"
     },
     "done": true
   },

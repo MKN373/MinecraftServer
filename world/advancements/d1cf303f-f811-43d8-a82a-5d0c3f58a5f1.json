@@ -571,6 +571,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2020-11-05 00:58:18 +0900",
       "minecraft:skeleton": "2020-10-06 01:51:07 +0900",
       "minecraft:hoglin": "2020-10-06 02:42:55 +0900",
       "minecraft:spider": "2020-10-06 02:01:03 +0900",
@@ -653,6 +654,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2020-10-20 00:41:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-11-05 00:58:18 +0900"
     },
     "done": true
   },
