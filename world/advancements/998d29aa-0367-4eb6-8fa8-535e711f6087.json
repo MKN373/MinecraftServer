@@ -275,6 +275,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:51:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-11-08 01:52:37 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-10-01 02:27:47 +0900"
@@ -356,6 +368,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2020-10-16 01:51:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:51:43 +0900"
     },
     "done": true
   },
@@ -587,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-08 01:12:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-10-05 02:01:54 +0900"
@@ -786,6 +810,7 @@
       "minecraft:slime": "2020-10-07 22:40:37 +0900",
       "minecraft:zombified_piglin": "2020-10-28 01:56:36 +0900",
       "minecraft:witch": "2020-10-22 23:53:44 +0900",
+      "minecraft:shulker": "2020-11-08 23:55:32 +0900",
       "minecraft:cave_spider": "2020-10-14 01:35:16 +0900",
       "minecraft:piglin": "2020-10-05 00:53:32 +0900",
       "minecraft:enderman": "2020-10-06 02:18:51 +0900",
@@ -1024,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-11-08 01:11:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-06 02:55:04 +0900"
@@ -1066,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-11-09 01:31:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2020-10-01 02:37:21 +0900"
@@ -1099,6 +1136,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-10-16 01:49:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-11-08 01:24:32 +0900"
     },
     "done": true
   },
@@ -1651,6 +1694,7 @@
       "minecraft:badlands": "2020-10-17 02:34:38 +0900",
       "minecraft:savanna_plateau": "2020-10-22 02:12:43 +0900",
       "minecraft:beach": "2020-10-01 01:48:03 +0900",
+      "minecraft:dark_forest": "2020-11-09 02:04:12 +0900",
       "minecraft:river": "2020-10-01 01:47:55 +0900",
       "minecraft:lukewarm_ocean": "2020-10-01 02:31:37 +0900",
       "minecraft:birch_forest_hills": "2020-10-04 22:37:47 +0900",
@@ -1658,6 +1702,7 @@
       "minecraft:wooded_hills": "2020-10-01 02:13:05 +0900",
       "minecraft:stone_shore": "2020-10-01 02:32:55 +0900",
       "minecraft:wooded_badlands_plateau": "2020-10-17 02:35:33 +0900",
+      "minecraft:swamp": "2020-11-08 01:00:25 +0900",
       "minecraft:savanna": "2020-10-17 02:31:26 +0900",
       "minecraft:plains": "2020-10-05 00:07:00 +0900"
     },
@@ -1672,6 +1717,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2020-10-05 23:17:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:51:43 +0900"
     },
     "done": true
   },
@@ -1702,6 +1753,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-10-01 01:50:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-08 01:12:59 +0900"
     },
     "done": true
   },
@@ -1828,6 +1885,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2020-10-30 02:02:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2020-11-08 01:39:39 +0900"
     },
     "done": true
   },
@@ -2177,6 +2240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:51:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2020-10-05 00:46:50 +0900"
@@ -2228,6 +2297,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-01 02:29:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-08 01:24:55 +0900"
     },
     "done": true
   },
@@ -2375,13 +2450,15 @@
       "cooked_mutton": "2020-10-01 02:28:30 +0900",
       "sweet_berries": "2020-10-02 01:06:12 +0900",
       "cooked_beef": "2020-10-06 01:43:40 +0900",
+      "chorus_fruit": "2020-11-09 00:36:25 +0900",
       "baked_potato": "2020-10-06 00:02:59 +0900",
       "apple": "2020-10-16 16:53:29 +0900",
       "cooked_cod": "2020-10-27 21:32:14 +0900",
       "pumpkin_pie": "2020-10-07 01:16:24 +0900",
       "bread": "2020-10-05 00:47:20 +0900",
       "cookie": "2020-10-27 23:15:58 +0900",
-      "cooked_chicken": "2020-10-02 01:51:24 +0900"
+      "cooked_chicken": "2020-10-02 01:51:24 +0900",
+      "carrot": "2020-11-09 02:06:50 +0900"
     },
     "done": false
   },
@@ -2466,6 +2543,12 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-01 02:29:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-08 01:12:59 +0900"
     },
     "done": true
   },
@@ -2733,6 +2816,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-10-01 02:27:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-08 01:12:59 +0900"
     },
     "done": true
   },
@@ -3150,6 +3239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-08 01:12:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2020-10-15 02:22:25 +0900"
@@ -3213,6 +3308,18 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-10-15 02:29:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-08 01:24:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-08 01:24:55 +0900"
     },
     "done": true
   },
@@ -3570,6 +3677,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2020-11-08 23:48:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-10-16 01:49:09 +0900"
@@ -3591,6 +3704,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2020-10-15 02:27:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-11-08 01:52:02 +0900"
     },
     "done": true
   },
@@ -3651,6 +3770,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-10-16 01:52:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2020-11-08 01:12:59 +0900"
     },
     "done": true
   },
@@ -3756,6 +3881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2020-11-08 01:24:55 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-10-01 02:27:47 +0900"
@@ -3786,6 +3917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:51:43 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-10-01 01:51:01 +0900"
@@ -3813,6 +3950,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-01 02:29:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-11-08 01:24:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-08 01:24:55 +0900"
     },
     "done": true
   },
@@ -3897,6 +4046,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-10-06 00:13:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:51:43 +0900"
     },
     "done": true
   },

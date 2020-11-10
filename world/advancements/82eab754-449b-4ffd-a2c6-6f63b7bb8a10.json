@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2020-11-08 23:26:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-10-05 22:56:40 +0900"
@@ -212,6 +218,18 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting": {
     "criteria": {
       "has_gold_ore": "2020-10-05 23:27:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:59:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-11-09 00:22:57 +0900"
     },
     "done": true
   },
@@ -278,6 +296,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2020-10-12 21:02:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:59:36 +0900"
     },
     "done": true
   },
@@ -386,6 +410,12 @@
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2020-10-01 22:49:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-11-08 23:56:30 +0900"
     },
     "done": true
   },
@@ -599,6 +629,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-11-08 23:56:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-11-08 23:56:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-21 00:45:20 +0900"
@@ -642,6 +684,7 @@
       "minecraft:magma_cube": "2020-10-12 22:50:32 +0900",
       "minecraft:creeper": "2020-10-14 01:26:10 +0900",
       "minecraft:zombified_piglin": "2020-10-15 01:24:53 +0900",
+      "minecraft:shulker": "2020-11-08 23:48:55 +0900",
       "minecraft:cave_spider": "2020-10-14 01:48:36 +0900",
       "minecraft:piglin": "2020-10-05 01:05:54 +0900",
       "minecraft:enderman": "2020-10-12 22:56:39 +0900",
@@ -799,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-11-08 23:34:11 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-09 01:12:47 +0900"
@@ -862,6 +911,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2020-10-21 00:09:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-11-08 23:35:10 +0900"
     },
     "done": true
   },
@@ -1030,6 +1085,12 @@
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2020-10-18 22:50:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2020-11-08 23:56:30 +0900"
     },
     "done": true
   },
@@ -1306,6 +1367,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-09-28 23:44:05 +0900",
+      "minecraft:desert": "2020-11-08 22:16:11 +0900",
       "minecraft:birch_forest": "2020-10-01 22:33:53 +0900",
       "minecraft:deep_lukewarm_ocean": "2020-10-05 23:41:04 +0900",
       "minecraft:badlands": "2020-11-02 00:13:59 +0900",
@@ -1322,6 +1384,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-21 00:45:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:59:36 +0900"
     },
     "done": true
   },
@@ -1466,6 +1534,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2020-10-05 23:24:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-11-08 23:56:30 +0900"
     },
     "done": true
   },
@@ -1719,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:59:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2020-10-02 00:06:22 +0900"
@@ -1851,6 +1931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2020-11-08 23:56:30 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-10-10 01:05:03 +0900"
@@ -1873,9 +1959,11 @@
     "criteria": {
       "cooked_mutton": "2020-10-10 01:12:10 +0900",
       "sweet_berries": "2020-10-01 22:43:26 +0900",
+      "chorus_fruit": "2020-11-09 00:46:48 +0900",
       "apple": "2020-10-01 22:38:17 +0900",
       "bread": "2020-10-02 00:09:44 +0900",
-      "rotten_flesh": "2020-10-05 01:15:27 +0900"
+      "rotten_flesh": "2020-10-05 01:15:27 +0900",
+      "cooked_chicken": "2020-11-08 22:48:44 +0900"
     },
     "done": false
   },
@@ -2779,6 +2867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2020-11-08 23:48:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2020-10-12 23:01:53 +0900"
@@ -2827,6 +2921,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2020-11-08 23:48:28 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2020-10-21 00:09:05 +0900"
@@ -2848,6 +2948,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2020-10-18 21:51:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-11-08 23:42:33 +0900"
     },
     "done": true
   },
@@ -2947,6 +3053,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-11-08 23:51:10 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-10-05 22:56:40 +0900"
@@ -2983,6 +3095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:59:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-10-01 23:52:56 +0900"
@@ -3010,6 +3128,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-21 00:45:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-11-08 23:35:10 +0900"
     },
     "done": true
   },
@@ -3088,6 +3212,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2020-10-05 23:00:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2020-11-08 23:59:36 +0900"
     },
     "done": true
   },
