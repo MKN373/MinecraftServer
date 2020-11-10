@@ -1,45 +1,35 @@
-[00:22:02] [User Authenticator #34/INFO]: UUID of player elishaotogei is 783a1055-5bfc-4369-b065-c18fd5592704
-[00:22:02] [Server thread/INFO]: elishaotogei[/49.106.213.218:62162] logged in with entity id 250597 at (-204.11684778667973, 64.0, -38.963700505090216)
-[00:22:02] [Server thread/INFO]: elishaotogei joined the game
-[00:29:03] [Server thread/INFO]: elishaotogei lost connection: Disconnected
-[00:29:03] [Server thread/INFO]: elishaotogei left the game
-[01:09:13] [User Authenticator #35/INFO]: UUID of player makino373 is 43209218-facb-4905-a845-1a47174386bc
-[01:09:13] [Server thread/INFO]: makino373[/127.0.0.1:54398] logged in with entity id 251610 at (-141.3445401458229, 63.0, -41.46555022182214)
-[01:09:13] [Server thread/INFO]: makino373 joined the game
-[01:13:14] [Server thread/INFO]: makino373 lost connection: Disconnected
-[01:13:14] [Server thread/INFO]: makino373 left the game
-[01:14:42] [User Authenticator #36/INFO]: UUID of player makino373 is 43209218-facb-4905-a845-1a47174386bc
-[01:14:42] [Server thread/INFO]: makino373[/127.0.0.1:54650] logged in with entity id 252462 at (-140.38624982224218, 63.0, -40.065396510215876)
-[01:14:42] [Server thread/INFO]: makino373 joined the game
-[01:19:45] [User Authenticator #37/INFO]: UUID of player elishaotogei is 783a1055-5bfc-4369-b065-c18fd5592704
-[01:19:45] [Server thread/INFO]: elishaotogei[/122.26.103.0:1084] logged in with entity id 253756 at (-332.9000849380751, 208.0, -102.54573150232986)
-[01:19:45] [Server thread/INFO]: elishaotogei joined the game
-[02:05:33] [Server thread/INFO]: makino373 lost connection: Disconnected
-[02:05:33] [Server thread/INFO]: makino373 left the game
-[02:08:35] [User Authenticator #38/INFO]: UUID of player makino373 is 43209218-facb-4905-a845-1a47174386bc
-[02:08:36] [Server thread/INFO]: makino373[/127.0.0.1:56427] logged in with entity id 273270 at (-137.94943282122102, 63.0, -40.41461326673228)
-[02:08:36] [Server thread/INFO]: makino373 joined the game
-[02:29:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/280391, l='ServerLevel[world]', x=-176.31, y=81.00, z=79.20]
-[02:33:01] [Server thread/INFO]: <makino373> neteru
-[02:45:26] [Server thread/INFO]: makino373 lost connection: Disconnected
-[02:45:26] [Server thread/INFO]: makino373 left the game
-[02:45:49] [Server thread/INFO]: elishaotogei lost connection: Disconnected
-[02:45:49] [Server thread/INFO]: elishaotogei left the game
-[10:33:08] [User Authenticator #39/INFO]: UUID of player makino373 is 43209218-facb-4905-a845-1a47174386bc
-[10:33:08] [Server thread/INFO]: makino373[/127.0.0.1:61332] logged in with entity id 286410 at (-133.1257520232786, 63.0, -41.36775051823675)
-[10:33:08] [Server thread/INFO]: makino373 joined the game
-[10:36:31] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/287023, l='ServerLevel[world]', x=-160.78, y=63.00, z=-92.56]
-[10:46:15] [Server thread/INFO]: makino373 lost connection: Disconnected
-[10:46:15] [Server thread/INFO]: makino373 left the game
-[17:28:52] [Server thread/INFO]: Stopping server
-[17:28:52] [Server thread/INFO]: Saving players
-[17:28:52] [Server thread/INFO]: Saving worlds
-[17:28:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:28:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:28:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:28:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:28:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:28:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:28:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:28:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:28:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:55:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:55:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:55:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:55:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:55:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:55:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:55:41] [main/INFO]: Reloading ResourceManager: Default
+[17:55:42] [Worker-Main-13/INFO]: Loaded 7 recipes
+[17:55:42] [Worker-Main-13/INFO]: Loaded 927 advancements
+[17:55:46] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[17:55:46] [Server thread/INFO]: Loading properties
+[17:55:46] [Server thread/INFO]: Default game type: SURVIVAL
+[17:55:46] [Server thread/INFO]: Generating keypair
+[17:55:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:55:46] [Server thread/INFO]: Using default channel type
+[17:55:49] [Server thread/INFO]: Preparing level "world"
+[17:55:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:55:50] [Server thread/INFO]: Preparing spawn area: 0%
+[17:55:50] [Server thread/INFO]: Preparing spawn area: 0%
+[17:55:50] [Server thread/INFO]: Preparing spawn area: 0%
+[17:55:51] [Server thread/INFO]: Preparing spawn area: 0%
+[17:55:52] [Server thread/INFO]: Time elapsed: 2622 ms
+[17:55:52] [Server thread/INFO]: Done (2.711s)! For help, type "help"
+[18:00:27] [Server thread/INFO]: Stopping server
+[18:00:27] [Server thread/INFO]: Saving players
+[18:00:27] [Server thread/INFO]: Saving worlds
+[18:00:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:00:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:00:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:00:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
