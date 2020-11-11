@@ -1,36 +1,43 @@
-[18:05:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:05:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:05:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:05:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:05:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:05:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:05:21] [main/INFO]: Reloading ResourceManager: Default
-[18:05:22] [Worker-Main-14/INFO]: Loaded 7 recipes
-[18:05:22] [Worker-Main-14/INFO]: Loaded 927 advancements
-[18:05:25] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[18:05:25] [Server thread/INFO]: Loading properties
-[18:05:25] [Server thread/INFO]: Default game type: SURVIVAL
-[18:05:25] [Server thread/INFO]: Generating keypair
-[18:05:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:05:25] [Server thread/INFO]: Using default channel type
-[18:05:28] [Server thread/INFO]: Preparing level "world"
-[18:05:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:05:29] [Server thread/INFO]: Preparing spawn area: 0%
-[18:05:29] [Server thread/INFO]: Preparing spawn area: 0%
-[18:05:29] [Server thread/INFO]: Preparing spawn area: 0%
-[18:05:29] [Server thread/INFO]: Preparing spawn area: 0%
-[18:05:30] [Server thread/INFO]: Preparing spawn area: 52%
-[18:05:31] [Server thread/INFO]: Time elapsed: 3385 ms
-[18:05:31] [Server thread/INFO]: Done (3.483s)! For help, type "help"
-[18:06:07] [Server thread/INFO]: Stopping server
-[18:06:07] [Server thread/INFO]: Saving players
-[18:06:07] [Server thread/INFO]: Saving worlds
-[18:06:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:06:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:06:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:06:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:06:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:06:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:06:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:06:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:06:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:07:24] [Server thread/INFO]: R1N0 lost connection: Disconnected
+[00:07:24] [Server thread/INFO]: R1N0 left the game
+[00:59:11] [User Authenticator #6/INFO]: UUID of player Gengoya_Perfect is 998d29aa-0367-4eb6-8fa8-535e711f6087
+[00:59:11] [Server thread/INFO]: Gengoya_Perfect[/153.229.146.143:58997] logged in with entity id 67201 at (-216.20562206755574, 69.0, -0.3008811015318841)
+[00:59:11] [Server thread/INFO]: Gengoya_Perfect joined the game
+[01:00:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-457, y=66, z=78} fx{x=-455, y=67, z=75}
+[01:00:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-455, y=66, z=75} fx{x=-457, y=68, z=74}
+[01:00:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-455, y=66, z=75} fx{x=-457, y=68, z=74}
+[01:00:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-455, y=66, z=75} fx{x=-457, y=68, z=74}
+[01:00:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-455, y=66, z=75} fx{x=-457, y=68, z=74}
+[01:10:47] [Server thread/INFO]: Lilieze lost connection: Disconnected
+[01:10:47] [Server thread/INFO]: Lilieze left the game
+[01:11:30] [Server thread/INFO]: Gengoya_Perfect lost connection: Disconnected
+[01:11:30] [Server thread/INFO]: Gengoya_Perfect left the game
+[01:12:00] [User Authenticator #7/INFO]: UUID of player Gengoya_Perfect is 998d29aa-0367-4eb6-8fa8-535e711f6087
+[01:12:01] [Server thread/INFO]: Gengoya_Perfect[/153.229.146.143:59515] logged in with entity id 72386 at (-20.5, 12.0, 67.5)
+[01:12:01] [Server thread/INFO]: Gengoya_Perfect joined the game
+[01:12:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-458, y=69, z=81} fx{x=-453, y=68, z=74}
+[01:12:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-458, y=69, z=81} fx{x=-453, y=68, z=74}
+[01:12:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-458, y=69, z=81} fx{x=-453, y=69, z=76}
+[01:12:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-458, y=69, z=81} fx{x=-453, y=69, z=76}
+[01:26:29] [Server thread/INFO]: makino373 lost connection: Disconnected
+[01:26:29] [Server thread/INFO]: makino373 left the game
+[01:29:42] [User Authenticator #8/INFO]: UUID of player makino373 is 43209218-facb-4905-a845-1a47174386bc
+[01:29:42] [Server thread/INFO]: makino373[/127.0.0.1:50813] logged in with entity id 78473 at (-134.18779652045035, 63.0, -39.927458505338436)
+[01:29:42] [Server thread/INFO]: makino373 joined the game
+[01:32:39] [Server thread/INFO]: Gengoya_Perfect lost connection: Disconnected
+[01:32:39] [Server thread/INFO]: Gengoya_Perfect left the game
+[01:32:41] [Server thread/INFO]: makino373 lost connection: Disconnected
+[01:32:41] [Server thread/INFO]: makino373 left the game
+[14:28:58] [User Authenticator #9/INFO]: UUID of player elishaotogei is 783a1055-5bfc-4369-b065-c18fd5592704
+[14:28:58] [Server thread/INFO]: elishaotogei[/49.97.107.198:62974] logged in with entity id 78888 at (-194.30000001192093, 57.0, 80.28674228143058)
+[14:28:58] [Server thread/INFO]: elishaotogei joined the game
+[14:48:46] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/81659, l='ServerLevel[world]', x=-163.01, y=63.00, z=-92.21]
+[14:52:48] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/82346, l='ServerLevel[world]', x=-176.31, y=81.00, z=79.20]
+[14:58:18] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/83406, l='ServerLevel[world]', x=-176.31, y=81.00, z=79.20]
+[15:14:58] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/85926, l='ServerLevel[world]', x=-160.13, y=63.00, z=-96.60]
+[16:32:02] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/96841, l='ServerLevel[world]', x=-176.31, y=81.00, z=79.20]
+[18:06:04] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/108376, l='ServerLevel[world]', x=-166.01, y=63.00, z=-91.93]
+[18:36:52] [Server thread/INFO]: elishaotogei was slain by Phantom
+[21:33:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9068774ms or 181375 ticks behind
+[21:33:32] [Server thread/INFO]: elishaotogei lost connection: Disconnected
+[21:33:32] [Server thread/INFO]: elishaotogei left the game
