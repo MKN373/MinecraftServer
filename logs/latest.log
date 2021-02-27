@@ -1,5 +1,24 @@
-[04:08:38] [User Authenticator #1/INFO]: UUID of player makino373 is 43209218-facb-4905-a845-1a47174386bc
-[04:08:38] [Server thread/INFO]: makino373[/127.0.0.1:58461] logged in with entity id 578 at (-139.60449166010676, 63.0, -31.960294935841915)
-[04:08:38] [Server thread/INFO]: makino373 joined the game
-[04:09:03] [Server thread/INFO]: makino373 lost connection: Disconnected
-[04:09:03] [Server thread/INFO]: makino373 left the game
+[19:24:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:24:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:24:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:24:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:24:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:24:39] [main/INFO]: Reloading ResourceManager: Default
+[19:24:40] [Worker-Main-14/INFO]: Loaded 7 recipes
+[19:24:40] [Worker-Main-14/INFO]: Loaded 927 advancements
+[19:24:45] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[19:24:45] [Server thread/INFO]: Loading properties
+[19:24:45] [Server thread/INFO]: Default game type: SURVIVAL
+[19:24:45] [Server thread/INFO]: Generating keypair
+[19:24:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:24:46] [Server thread/INFO]: Using default channel type
+[19:24:54] [Server thread/INFO]: Preparing level "world"
+[19:24:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:24:56] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:56] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:56] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:56] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:56] [Server thread/INFO]: Preparing spawn area: 0%
+[19:24:57] [Server thread/INFO]: Preparing spawn area: 61%
+[19:25:00] [Server thread/INFO]: Time elapsed: 6239 ms
+[19:25:00] [Server thread/INFO]: Done (6.397s)! For help, type "help"
